@@ -60,8 +60,12 @@ server {
 
 After setting up everything, open your browser and navigate to:
 
+![alt text](image-1.png)
+
     http://localhost:5000/test
 
 ### 6.Use Laradock to create a Laravel running environment, change the configuration (port, PHP version) of Laradock
+
+![alt text](image.png)
 
     http://localhost:5000
